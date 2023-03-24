@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application_OO_01</string>
+    <string name="InTxLenght">長</string>
+    <string name="InTxWidth">寬</string>
+    <string name="InTxHeight">高</string>
+    <string name="BtSend">送出</string>
+</resources>
